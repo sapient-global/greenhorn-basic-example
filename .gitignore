@@ -1,0 +1,10 @@
+dist
+.project 
+.settings
+*~
+*.diff 
+*.patch 
+.DS_Store
+node_modules
+npm-debug.log
+build
