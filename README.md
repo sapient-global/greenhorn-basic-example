@@ -2,6 +2,11 @@
 
 > Create a basic app structure, clone and code
 
+##Included
+
+This basic structure comes with it's own Gruntfile to do a basic build, it is a cop of the [Greenhorn Basic]() Gruntfile.
+
+
 ## Usage
 
 Clone this repo into your project directory and get coding!
